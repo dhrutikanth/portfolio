@@ -160,7 +160,7 @@ html{
      text-align: justify;
      padding: 10px;
      border-radius: 15px;
-     background: linear-gradient(to top, rgb(green)50%,white 50%);
+     background: linear-gradient(to top,rgb(39,130,63),50%,white 50%);
      background-size: 100% 200%;
      transition: all .8s;
  }
@@ -168,7 +168,7 @@ html{
      background-position: left bottom;
      color: white;
      border: none;
-     box-shadow: 0 0 20px rgb(255,45,45);
+    box-shadow: 0 0 20px rgb(39,130,63);
  }
  .box img{
      width: 80px;
